@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Análisis de Datos de Alura Store Latam
 
 Este repositorio contiene un análisis de datos exploratorio (EDA) de la cadena de tiendas "Alura Store Latam". El objetivo del proyecto es evaluar el desempeño de sus cuatro sucursales a través de métricas clave de rentabilidad, ventas y satisfacción del cliente para fundamentar una recomendación estratégica de negocio.
@@ -61,4 +60,4 @@ El análisis se realizó a partir de cuatro archivos CSV que contienen los datos
 - [Tienda 2](https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_2.csv)
 - [Tienda 3](https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_3.csv)
 - [Tienda 4](https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_4.csv)
-=======
+
